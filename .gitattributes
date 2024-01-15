@@ -1,0 +1,2 @@
+path/to/large/file filter=lfs diff=lfs merge=lfs -text
+C:/Users/dy323/myfirstmobileapplication filter=lfs diff=lfs merge=lfs -text
