@@ -47,7 +47,4 @@ This Flutter project is a To-Do app with modern styling and features for managin
 ## Acknowledgments
 
     
-Make sure to create a `LICENSE.md` file with the actual license text (e.g., MIT License) and, if needed, a `CONTRIBUTING.md` file outlining contribution guidelines. You can customize the template further based on your project's specific details.
-
-Feel free to modify the sections as needed, and add more information based on your project's requirements. If you have specific details you'd like to include, let me know, and I can help tailor the template accordingly.
-This project is built using Flutter framework by Google Developers.</s>
+Make sure to create a `LICENSE.md` file with the actual license text (e.g., MIT License) and, if needed, a `CONTRIBUTING.md` file outlining contribution guidelines. 
