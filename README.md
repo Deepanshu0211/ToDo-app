@@ -26,7 +26,7 @@ This Flutter project is a To-Do app with modern styling and features for managin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/deepanshu0211/todo-app.git
 
 # Navigate to the project directory:
    
@@ -43,8 +43,4 @@ This Flutter project is a To-Do app with modern styling and features for managin
 
     ```bash
     Run the app:
-    ```
-## Acknowledgments
 
-    
-Make sure to create a `LICENSE.md` file with the actual license text (e.g., MIT License) and, if needed, a `CONTRIBUTING.md` file outlining contribution guidelines. 
